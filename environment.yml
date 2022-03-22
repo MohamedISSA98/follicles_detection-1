@@ -25,3 +25,4 @@ dependencies:
     - opencv-python-headless
     - osfclient
     - ramp-workflow
+    - patchify
